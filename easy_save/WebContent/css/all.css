@@ -1,0 +1,4 @@
+/*div{border: 1px solid gray;}*/
+a{text-decoration: none;}
+body{width: 100%; background-color: white; overflow-x: hidden; overflow-y: scroll;}
+#window{margin: 0 auto; width: auto; overflow: hidden;}
